@@ -1,13 +1,12 @@
 # Auto Dojo
 
-_Hypixel skyblock crimson isle QOL_
+_A QOL module for hypixel skyblock crimson isle._
 
 ---
-Features:
-- Full auto for all dojo modes
-- Legit helpers for all dojo modes
-- High ping mode
-- All modules are spec-legit and won't ban
+
+## What it does
+- Auto does all dojo tasks to max points (1000), or even higher if you want
+- All modules are spec legit, so no bans
 ---
 
 ## Installation
@@ -20,5 +19,12 @@ Download chatriggers (if not already installed) from [here](https://chattriggers
    - Located at: `/.minecraft/config/ChatTriggers/modules/`
 3. Restart Minecraft or run `/ct load` in-game.
 
+---
 
-Enjoy! (command for the gui is /dojo)
+## Usage
+
+_To open the GUI, the command is /autodojo!_
+
+---
+
+Enjoy!
